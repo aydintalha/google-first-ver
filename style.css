@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    align-items: center;
+}
+
+p {
+    margin: 0;
+}
+input {
+    margin: 0%;
+}
+/* logo and search bar */
+section.form {
+    margin-top: 10vh;
+    width: 100%;
+}
+
+.top-bar {
+    width:auto; 
+    background-color: #ececec; 
+    height: 50px; 
+    padding: 10px;
+}
+
+#searchBtn {
+   width: 20%;
+}
+/* logo and search bar */
+
+/* bottom part */
+section.bottom-part {
+    margin-top: 0%;
+}
+
+.row {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    margin-top: 0;
+}
+
+.left-bar {
+    background-color: rgb(83, 233, 218);
+}
+
+.right-bar {
+    background-color: rgb(57, 161, 151);
+}
+
+.middle-bar {
+    background-color:  rgb(58, 201, 186);
+    font-size: 12px;
+}
+
+footer {
+    margin: 20px;
+    font-size: 13px
+}
